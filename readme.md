@@ -8,6 +8,10 @@ This project is a backend system designed to manage financial records with role-
 
 The system allows different users (Admin, Analyst, Viewer) to interact with financial data based on their permissions. It demonstrates clean backend architecture, proper API design, and real-world features such as filtering, pagination, and secure authentication.
 
+## 📦 Sample Database
+
+A sample SQLite database (`db.sqlite3`) with pre-populated data has been included in the repository for quick testing and demonstration purposes.
+Users with different roles (Admin, Analyst, Viewer) and sample financial records are already available in the database.
 ---
 
 ## 🎯 Objectives
